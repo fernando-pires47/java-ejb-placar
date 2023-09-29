@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9baea87d-4608-4e0d-8eb4-07347da6c8c1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../angular/curso-angular2-loiane/hello-tyspescript/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/curso-angular2-loiane/hello-tyspescript/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/data-form/data-form.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/data-form/data-form.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/data-form/data-form.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/data-form/data-form.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/data-form/form-validator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/formulario/formulario.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/formulario/formulario.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/formulario/formulario.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/formulario/formulario.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/services/email.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/services/email.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/form-debug/form-debug.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/form-debug/form-debug.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/form-debug/form-debug.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/form-debug/form-debug.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/models/estado-br.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/services/dropdown.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/services/drpdown.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/shared.module.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular/forms-loiane/app/shared/shared.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estrutura_dados/estrutura_dados/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estrutura_dados/estrutura_dados/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estrutura_dados/estrutura_dados/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estrutura_dados/estrutura_dados/estruturadados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estrutura_dados/estrutura_dados/out/production/estruturadados/exercicio1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estrutura_dados/estrutura_dados/src/exercicio1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/my-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/my-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/clube/ClubeBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/clube/ClubeBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/jogo/JogoBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/jogo/JogoBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/pais/PaisBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/pais/PaisBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/palpite/PalpiteBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/palpite/PalpiteBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/placar/PlacarBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/placar/PlacarBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogoBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogoBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/usuario/UsuarioBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/usuario/UsuarioBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/usuario/UsuarioRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/usuario/UsuarioRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/uteis/AbstractBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/uteis/AbstractBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/uteis/AbstractModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/uteis/AbstractModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/uteis/AbstractModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/uteis/AbstractModelImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/uteis/AbstractRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/uteis/AbstractRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/one/uteis/ApplicationRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/one/uteis/ApplicationRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features-11-14-17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hikari/rinhabackend-java-Hikari.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thread-paralelismo/executor-thread" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thread-paralelismo/explicando-thread" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thread/java-multithread-main/src/ForkJoin_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thread/java-multithread-main/src/ForkJoin_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thread/thread-problems" beforeDir="false" afterPath="$PROJECT_DIR$/../../thread/thread-problems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../var" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widlfly-docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widlfly-docker/wildfly/keystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widlfly-docker/wildfly/postgresql/driver/module.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widlfly-docker/wildfly/postgresql/driver/postgresql-42.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widlfly-docker/wildfly/standalone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ferramentas.ods" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ferramentas.ods" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/flutter/todo_new.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/js/buscar-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/js/filtrar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/js/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/js/remover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/aula-21/js/tabela.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_css/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_css/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_imagens/cadastro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_imagens/covid-branco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_imagens/covid-pessoa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_imagens/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_imagens/lupa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_javascript/buscar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_javascript/cadastro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/_javascript/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/buscar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/cadastro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/front/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/.idea/server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/api/config/db.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/api/config/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/api/controller/cadastro.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/api/model/cadastro.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/api/model/listar.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/api/route/cadastro.route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/covid-19/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas-form/_css/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas-form/_css/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas-form/_javascript/funcoes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas-form/cadastro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_css/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/cadastro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/carro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/cliente-user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/clientes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/contato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_imagens/vida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/_javascript/funcoes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/cadastro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/cliente.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/contato.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/project-lucas/planos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/.idea/projeto-glass-html5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_css/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/audio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/botao-enviar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/contato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/det-bateria.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/det-camera.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/det-tela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/det-touch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/especificacoes-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/especificacoes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/fotos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/galeria-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/galeria-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/galeria-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/galeria-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/galeria-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/galeria-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-esquema-marcado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-esquema.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-logo-grd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-logo-med.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-logo-peq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-oculos-preto-gig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-oculos-preto-grd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-oculos-preto-med.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-oculos-preto-peq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-quadro-homem-mulher.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-quadro-homem-mulher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-quadro-homem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/glass-quadro-mulher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/icone-contato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/icone-endereco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/icone-mensagem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/icone-pagamento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/jornal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/lampada-acesa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/lampada-apagada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/lampada-quebrada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/mao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/multimidia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/radio-tv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/video-mini01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/video-mini02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/video-mini03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_imagens/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_interface/00-divisoes-semanticas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_interface/01-index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_interface/02-specs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_interface/03-fotos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_interface/04-multimidia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_interface/05-fale-conosco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_interface/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_javascript/audio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/_javascript/funcoes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/fale-conosco.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/fotos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/google-glass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/multimidia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/projeto-glass-new/specs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/tecsul/app/config/db.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/tecsul/app/config/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/tecsul/app/model/cliente.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/tecsul/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/tecsul/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/tecsul/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_css/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/bola.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/boston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/clippers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/curry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/devis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/img_video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/lebron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/logo_lakers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/logo_memphis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/logo_warriors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/morant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/nba_trans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/playoffs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/russel.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/thompson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/_imagens/video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/noticias-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/noticias.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Uteis/htdocs/trabalho-lucas/trabalho-lucas.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../auth/Autentic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../auth/Autentic.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../auth/contrato/bar/Certidão de Baixa de Inscrição.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/EXEMPLO-CONSULTA-PERSONALIZADA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/clubes/BCA_CIRUX_NOTIFY_SCALE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/clubes/CLUBES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/clubes/SCRIPT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/clubes/scripts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/giordani-ecommerce/issues" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/giordani-ecommerce/perguntas-frequentes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BILHETE_GET_PRODS_GROUP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BILHETE_ITEM_BU0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BILHETE_ITEM_CARTAO_BD0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BILHETE_ITEM_CARTAO_BI0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BILHETE_PACOTE_AT_SAL_BIUD2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BILHETE_PAX_BI0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BILH_OUT_SER_ESCALA_BIU22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_BIL_ITEM_CARTAO_AT_SALDO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_CIRUX_NOTIFY_SCALE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_CIRUX_UPDATE_NOTIFY_SCALED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_CONS_DISPO_DET_DIA_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_CONS_DISPO_DET_VENDA_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_ESC_TRASP_ESC_GUIA_AUD2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_ESC_T_OUT_SERV_DET_AUD22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_GET_AGENDA_ESCALA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_GET_DADOS_POLTRONAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_GET_MAPA_ESCALA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_GET_VENDAS_ESCALAS_TER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_INTEG_CIRUX_BILHETE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_INTEG_CIRUX_CAD_TERCEIROS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_INTEG_CIRUX_CAD_TERCEIROS_OLD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_REC_GET_DISP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BCA_REMOVE_ESCALA_TERCEIRO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/BUSCA_ESCALAS_FEITAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/CAD_TERCEIROS_BLOQ_CPF_CNPJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/GET_TERCEIROS_FORNECEDORES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/MOTIVOS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/REC_ESCALA_TREM_VENDAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/REC_LISTA_ESPERA_DET_BIUD0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_BILHETE_CRM_CIRUX_BU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_BILHETE_EDICOES_I" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_INTEG_CIRUX_ATUALIZA_BIL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_INTEG_CIRUX_ATUALIZA_TERC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_INTEG_CIRUX_BILHETE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_INTEG_CIRUX_CAD_TERCEIROS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_INTEG_CIRUX_CAD_TERC_TEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/BCA_INTEG_CIRUX_CLI_VEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/SCRIPTS-CIRUX/update" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/limber.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/receptivo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_link_pagamento/script/BCA_ESC_TRASP_ESC_GUIA_AUD22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_link_pagamento/script/BCA_ESC_TRASP_ESC_GUIA_BIU22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_link_pagamento/script/BUSCA_ESCALAS_FEITAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_link_pagamento/script/CREATE_BILHETE_GUIA_TRANSFER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_link_pagamento/script/log_pagamento" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_link_pagamento/script/receptivo_script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_link_pagamento/script/script_cartao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/script_listaespera" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/receptivo/scripts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF  - 03_09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF - 10_09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF - 17_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF - 24_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF - 27_08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF - AGOSTO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-01_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-03_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-05_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-10_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-12_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-17_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-19_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/LIMBERCHEF-26_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/adobes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/alteracoes/cxa_caixas_after" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/alteracoes/cxa_caixas_before" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/alteracoes/cxa_caixas_movimento_after" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/alteracoes/cxa_caixas_movimento_before" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/alteracoes/tabela" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/drag-and-drop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/duvidas-limberchef.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/load" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/login-cassio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/login-vini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/scripts-rodar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/OLD/sencha/sencha.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/REC_ESCALA_TREM_VENDAS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/bilhete_450_old_rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/env_magic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/env_receptivo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/ingresso-limber/REC_ESCALA_REMOVE_POLTRONA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/ingresso-limber/downloadfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/ingresso-limber/script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_CRITICIDADES_BI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_EXECUCOES_BIU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_ITENS_BI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_LOCAISSERVICO_BI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_ORDENS_SERVICO_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_ORDENS_SERVICO_EQUIP_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_ORDENS_SERVICO_TEMPO_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_ORDENS_SERVICO_TROCA_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_PLANOS_BIU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_PLANOS_CHECKLISTS_BI0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_REQUISICOES_BIU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/MNT_TIPOSSERVICO_BI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/default/scripts-manutencao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/old/1-a-3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/old/manutencao-V2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/old/manutencao_pt_2_e_3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/old/parte_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/old/parte_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/old/parte_3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-1-a-3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-4-V2/MNT_ORDENS_SERVICO_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-4-V2/MNT_ORDENS_SERVICO_EQUIP_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-4-V2/MNT_ORDENS_SERVICO_TEMPO_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-4-V2/MNT_ORDENS_SERVICO_TROCA_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-4-V2/MNT_PLANOS_BIU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-4-V2/MNT_REQUISICOES_BIU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-4-V2/parte-4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/1,5_estabelecimento" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/1_scripts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/2_MNT_ITENS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/3_MNT_ORDENS_SERVICO_TROCA_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/4_MNT_ORDENS_SERVICO_EQUIP_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/5_MNT_ITENS_BI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/6_MNT_ORDENS_SERVICO_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/7_MNT_PLANOS_BIU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/8_MNT_START_STOP_TEMPOS_OS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-5-V3/manutencao/9_MNT_ORDENS_SERVICO_TEMPO_BIUD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/parte-6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/manutencaoo/manutencao/scripts-manutencao" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/pixx/BCA_BILHETE_BU0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/pixx/BCA_BILHETE_FORMA_PGTO_BI0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/pixx/Desenvolvimento-PIX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/pixx/env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/pixx/env.prod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/pixx/pix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../limber/pixx/script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../pontos" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="bolao@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="bolao@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="bolao" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="bolao@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="bolao" type="e3449647:DbNodeDescriptor" />
+        <item name="public" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>project</find>
+      <find>java:/bolao</find>
+      <find>Date</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/META-INF/pom.xml" />
+        <option value="$PROJECT_DIR$/src/br/one/login/AbstractModel.java" />
+        <option value="$PROJECT_DIR$/src/br/one/login/Connection.java" />
+        <option value="$PROJECT_DIR$/src/br/one/login/AbstractRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/uteis/DataUteis.java" />
+        <option value="$PROJECT_DIR$/src/br/one/login/AbstractModelImpl.java" />
+        <option value="$PROJECT_DIR$/src/br/one/clubes/Clubes.java" />
+        <option value="$PROJECT_DIR$/src/br/one/clubes/ClubesRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/jogo/JogoRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/paises/PaisesRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/paises/Paises.java" />
+        <option value="$PROJECT_DIR$/src/br/one/palpite/PalpiteRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/placar/PlacarRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogoRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/clubes/ClubesBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/jogo/JogoBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/paises/PaisesBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/palpite/PalpiteBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/placar/PlacarBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogoBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/login/ApplicationRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/login/AbstractBean.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_1.sql" />
+        <option value="$PROJECT_DIR$/src/br/one/clubes/Clube.java" />
+        <option value="$PROJECT_DIR$/src/br/one/pais/Clube.java" />
+        <option value="$PROJECT_DIR$/src/br/one/usuario/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogo.java" />
+        <option value="$PROJECT_DIR$/src/br/one/placar/Placar.java" />
+        <option value="$PROJECT_DIR$/src/br/one/palpite/Palpite.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_2.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_3.sql" />
+        <option value="/JPA QL Fragment (PaisBean.java:403).ql" />
+        <option value="$PROJECT_DIR$/src/br/one/uteis/PrimaryUteis.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_4.sql" />
+        <option value="$PROJECT_DIR$/src/br/one/uteis/ApplicationRest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_5.sql" />
+        <option value="/JPA QL Fragment (PaisBean.java:395).ql" />
+        <option value="$PROJECT_DIR$/src/br/one/pais/Pais.java" />
+        <option value="$PROJECT_DIR$/src/br/one/pais/PaisBean.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_6.sql" />
+        <option value="$PROJECT_DIR$/src/br/one/pais/PaisRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/clube/Clube.java" />
+        <option value="$PROJECT_DIR$/src/br/one/usuario/UsuarioRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/usuario/UsuarioBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/uteis/AbstractRest.java" />
+        <option value="$PROJECT_DIR$/src/br/one/clube/ClubeBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/clube/ClubeRest.java" />
+        <option value="$PROJECT_DIR$/src/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/br/one/uteis/AbstractBean.java" />
+        <option value="$PROJECT_DIR$/src/br/one/jogo/Jogo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectId" id="2W3RZlDl0QnQnzPE5unexQtG9XV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages Scope="true" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/fernando/Documentos/docss/ESTUDOS/Desenvolvimento/java/facul/placar-ejb&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Docs\project\src\META-INF" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 11.0.0.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49217" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WildFly" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 11.0.0.Final" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="project_war_exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49217" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9baea87d-4608-4e0d-8eb4-07347da6c8c1" name="Default" comment="" />
+      <created>1552439710903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552439710903</updated>
+      <workItem from="1552439720495" duration="5772000" />
+      <workItem from="1552610071865" duration="2471000" />
+      <workItem from="1552612859719" duration="598000" />
+      <workItem from="1552695409036" duration="408000" />
+      <workItem from="1552956104377" duration="6852000" />
+      <workItem from="1553042181755" duration="331000" />
+      <workItem from="1553042552512" duration="121000" />
+      <workItem from="1553044247339" duration="825000" />
+      <workItem from="1553045466476" duration="616000" />
+      <workItem from="1553215153957" duration="3768000" />
+      <workItem from="1553297181767" duration="5184000" />
+      <workItem from="1553560817475" duration="3470000" />
+      <workItem from="1553726511614" duration="726000" />
+      <workItem from="1553815603690" duration="3230000" />
+      <workItem from="1553902465304" duration="1130000" />
+      <workItem from="1553903982299" duration="617000" />
+      <workItem from="1553905754155" duration="1324000" />
+      <workItem from="1554166268546" duration="2414000" />
+      <workItem from="1554330814785" duration="178000" />
+      <workItem from="1554424743911" duration="4633000" />
+      <workItem from="1554504342225" duration="1863000" />
+      <workItem from="1554506873323" duration="471000" />
+      <workItem from="1554763858400" duration="3293000" />
+      <workItem from="1554855282446" duration="1008000" />
+      <workItem from="1557192792888" duration="356000" />
+      <workItem from="1557964830243" duration="595000" />
+      <workItem from="1557969576183" duration="545000" />
+      <workItem from="1557970150914" duration="869000" />
+      <workItem from="1558053909115" duration="26000" />
+      <workItem from="1566950013020" duration="70000" />
+      <workItem from="1567038732038" duration="2350000" />
+      <workItem from="1567052073855" duration="105000" />
+      <workItem from="1567120176263" duration="91000" />
+      <workItem from="1567122284242" duration="1315000" />
+      <workItem from="1567464665795" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57641000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27925116" sideWeight="0.5043924" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2057101" sideWeight="0.51326054" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2057101" sideWeight="0.48673946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2672035" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35881436" sideWeight="0.4956076" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27925116" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3272328" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11856474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.49707174" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20863836" sideWeight="0.5210608" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20863836" sideWeight="0.47893915" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/ApplicationRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/AbstractModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/AbstractBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/PrimaryUteis.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a0acf6be-594d-431c-837d-769c2e159571/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/461b53f6-0492-4b4d-92ba-2dd14f049a32/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/325199cc-aab0-4eb4-9f00-e98068d3cc56/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cc6b771a-9254-451e-801d-12b71c05b12b/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6679ed57-02aa-466b-8542-0034cef9824c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/FormatUteis.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/DataUteis.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/one/login/Connection.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/one/palpite/PalpiteRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/placar/PlacarRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogoRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/palpite/PalpiteBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/placar/PlacarBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/jogo/JogoBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/PrimaryUteis.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_4.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_5.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/placar/Placar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2b9e1c7e-d36d-4075-83cf-63b633ab794c/console_6.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/pais/Pais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/pais/PaisRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/pais/PaisBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/placarjogo/PlacarJogoBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/palpite/Palpite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/usuario/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/usuario/UsuarioBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/jogo/JogoRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/AbstractModelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/ApplicationRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/AbstractModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/clube/ClubeRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/clube/ClubeBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/clube/Clube.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/AbstractBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/uteis/AbstractRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/usuario/UsuarioRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/one/jogo/Jogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JPA 2.0-2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" build-on-make="true" name="1.0">
+    <output-path>$PROJECT_DIR$/out/artifacts/1_0</output-path>
+    <root id="archive" name="1.0.ear">
+      <element id="directory" name="lib">
+        <element id="archive" name="project.jar">
+          <element id="module-output" name="project" />
+        </element>
+        <element id="library" level="project" name="JPA 2.0-2.0" />
+      </element>
+      <element id="jpa-descriptors" facet="project/jpa/JPA" />
+    </root>
+  </artifact>
+</component>
